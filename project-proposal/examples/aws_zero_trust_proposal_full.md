@@ -1,5 +1,5 @@
 
-# Thynk Unlimited  
+
 ## ZERO TRUST NETWORK SECURITY IMPLEMENTATION  
 **Nguyễn Kim Kha**  
 Amazon Web Services  
